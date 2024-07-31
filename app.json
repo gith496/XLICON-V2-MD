@@ -39,7 +39,7 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "autoRead": {
