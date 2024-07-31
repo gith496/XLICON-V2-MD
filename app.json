@@ -15,7 +15,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK05QdjB6Z1ZHeWFFU3QyZ2E5UW1xazBCNHF0elVaQ09jZFNKbFh2TnVYWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVW1vWUc3bFU5cktLTDhpcjRaclQ2QXQvclZSMGk5Q2xIRUplNEpja05Fbz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVR2czdlRRZ2pSdDQ5dFRTazBmNjBjQ1hyK1l4QTBNbXYxLzhmTGcwcDE0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ4QXE2bnpnV2tHb04xalQydXpoNnhEWGlJcUJvcTZUOUlrVzc4QVhsNGxFPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllDVHdEbmxmZ1dlNkhZNW9KVzh2Uk9Pd1RuTmtGVXlXZ3lDRDdIRnFva2s9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik0zMEo5Zm5DaTZhSTlGS0NGYmhlM0NCZHJxZWdaTTFRNmc3R3BaYkVlM2c9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid09vSzhxc3o2Z28wWEEzYkZjSlVsczBQaGgwbG1FanNmYnh2ZDVDMWczTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibU1YZExlOGJhSlk3amVHNEhOcUxjUHlEYVhZZE1VYTFlRXRIdUNYdGsxaz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InhoKy9USVIzbjMrZjlRWlExZnk5MWt0T1RueTZ2WERERTU0NjlKRmNaQ01DcFJsV0xQRlp2S2xZN0x3QUFjUXhFbm84eGFvVThCb293aStrOEdTUGd3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjE3LCJhZHZTZWNyZXRLZXkiOiJ5elNOdkYwdUxVQkdzbzg0WVRCcXlzUVp0a1RYOUxTR1R1TXZWYlJWL3B3PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJQOGd3NzFySFNnS1czQ3JXN19waWtBIiwicGhvbmVJZCI6IjIxMzJmZTdjLWM3ZjEtNDUzZS1hMzA1LTM4ZDU5YmFkMTE0ZSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJUVUVaYjVVWXlwajl1ZHFtTUxjQ2RBSHhlRzA9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNGwrYWVSOHlNb04xQ3I2bEhLblRRSzFFOExRPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjFQUzc2Q1Q3IiwibWUiOnsiaWQiOiIyMzM1OTE4NTY2MzA6OEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTXJKM0ZFUTdkU3B0UVlZTGlBQUtBQT0iLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiMkFPYUtvNGpMTm9RWEoxd25JQ1lmV0k2RUFCSGxjaVdkUHR3bFN2R2trdz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiMUdxZTRicU1KUWcwdWxKeVd1bkM4amc0UlAvRVFuNi9VR1k1eGdUVm8relY5MTBCV1VjMEQvazlLTVp2UXQ5MkV4MWFCN0J2eGYxZkl6YTNUblphQUE9PSIsImRldmljZVNpZ25hdHVyZSI6IjBEMUZHaFlMRnZKbEgxdDJMNGxWQkRqZ09INEZTMy9zaHBNSUM5OTRGRGZ3THBDWjFucEFwZnV0T3hoY0ZlMlJTZWRoZkZiVndzQkpyaG1RdUFQSWdRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjMzNTkxODU2NjMwOjhAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZGdEbWlxT0l5emFFRnlkY0p5QW1IMWlPaEFBUjVYSWxuVDdjSlVyeHBKTSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMjQ0NDQxMSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFJSDUifQ=="
     },
     "MODE": {
       "description": "mode public or private",
@@ -25,7 +25,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -40,7 +40,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
@@ -50,7 +50,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
